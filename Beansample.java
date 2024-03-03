@@ -7,8 +7,8 @@ public class Beansample {
         Person1 person = new Person1();
         
         // Setting attributes
-        person.setName("John");
-        person.setAge(30);
+        person.setName("Bhanu Chandar");
+        person.setAge(21);
         
         // Getting attributes
         System.out.println("Name: " + person.getName());
